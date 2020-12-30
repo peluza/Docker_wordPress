@@ -20,3 +20,9 @@ sudo docker inspect <container id> | grep IPAddress
 5. Run the IPAddress number in your browser
 
 6. You're all set!
+
+Note: other mode connection http://localhost:8000 or http://YOUR_IP:8000 in a web browser.
+
+## Author
+
+- **Edison Isaza** - [peluza](https://github.com/peluza)
